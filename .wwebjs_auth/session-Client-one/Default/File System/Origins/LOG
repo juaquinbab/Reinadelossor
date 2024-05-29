@@ -1,3 +1,2 @@
-2024/05/28-09:54:35.762 f503 Reusing MANIFEST /Users/leidyburgos/Documents/Reinadelossorteos/.wwebjs_auth/session-Client-one/Default/File System/Origins/MANIFEST-000001
-2024/05/28-09:54:35.762 f503 Recovering log #3
-2024/05/28-09:54:35.763 f503 Reusing old log /Users/leidyburgos/Documents/Reinadelossorteos/.wwebjs_auth/session-Client-one/Default/File System/Origins/000003.log 
+2024/05/29-14:02:25.346 8e03 Creating DB /Users/leidyburgos/Documents/Reinadelossorteos/.wwebjs_auth/session-Client-one/Default/File System/Origins since it was missing.
+2024/05/29-14:02:25.358 8e03 Reusing MANIFEST /Users/leidyburgos/Documents/Reinadelossorteos/.wwebjs_auth/session-Client-one/Default/File System/Origins/MANIFEST-000001
